@@ -1,4 +1,4 @@
-FROM cgjgh36926/uvicorn-gunicorn:python3.11-slim
+FROM cgjgh36926/uvicorn-gunicorn-arm64v8:python3.11-slim
 
 LABEL maintainer="Sebastian Ramirez <tiangolo@gmail.com>"
 
